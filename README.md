@@ -1,5 +1,7 @@
-Gus's Links
-=========
+Toptap's Links
+==============
+
+Right now this is a fork of Gus's links - I would like to go through all of them, preserve the ones I love and add more that I have many places randomly, to be preserved here.
 
 A collection of links that I've found or will find useful.
 
