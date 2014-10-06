@@ -1,5 +1,5 @@
-Toptap's Links
-==============
+Toptap's Links (Mostly [Gus's links](https://github.com/gwezerek/dev-links) as of now)
+=============================================
 
 Right now this is a fork of Gus's links - I would like to go through all of them, preserve the ones I love and add more that I have many places randomly, to be preserved here.
 
